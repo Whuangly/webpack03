@@ -1,0 +1,1 @@
+console.log('webpack配置打包输出路径')；
